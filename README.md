@@ -88,7 +88,7 @@ Each metric was plotted as a time series by country, with accompanying insights:
 
 **Amal S.**  
 Aspiring Financial Data Analyst | Python • Power BI • SQL  
-[LinkedIn ](linkedin.com/in/amal-s-9a5b86310)  
+LinkedIn : linkedin.com/in/amal-s-9a5b86310
 [GitHub](https://github.com/intheperkofextinction)
 
 ---
