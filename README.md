@@ -66,6 +66,44 @@ Each metric was plotted as a time series by country, with accompanying insights:
  [See the full presentation](https://github.com/intheperkofextinction/IMF-financial-soundness-analysis/blob/main/FINANCIAL%20SOUNDNESS%20ANALYSIS.pdf)
 
 ---
+# IMF Financial Soundness Analysis Dashboard
+
+<img width="1640" height="1150" alt="image" src="https://github.com/user-attachments/assets/73a86d2e-1fc3-4332-be80-77b7f038684a" />
+
+
+##  Overview
+This Power BI dashboard analyzes banking sector stability using IMF Financial Soundness Indicators.
+
+##  Key Metrics
+- Tier 1 Capital Ratio
+- Non-Performing Loan (NPL) Ratio
+- Liquidity Ratio
+- Return on Assets (ROA)
+- FX Open Position
+
+##  Visualizations
+- Asset Quality Trend (NPL Trend)
+- Banking Sector Risk Scatter (Capital vs NPL)
+- NPL vs ROA Comparison
+- Tier 1 Capital Comparison by Country
+
+##  Tools Used
+- Power BI
+- Excel
+- DAX
+- Data Modeling
+
+##  Countries Analyzed
+Brazil, France, Germany, Japan
+
+##  Insights
+- Germany shows strongest capital position.
+- France & Brazil show higher NPL levels.
+- Japan shows lower NPL but moderate capital adequacy.
+
+---
+
+
 
 ##  Key Takeaways
 
@@ -97,6 +135,7 @@ LinkedIn : linkedin.com/in/amal-s-9a5b86310
 ##  Note
 
 > This project was independently built using official IMF data for learning and demonstration purposes. It is not affiliated with the IMF or any financial institution.
+ If you found this useful, feel free to connect with me!
 
 ---
 
